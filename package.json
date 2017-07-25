@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "angular": "^1.6.5",
     "electron": "^1.6.11",
     "express": "^4.15.3",
-    "network": "^0.3.2",
     "qrcode": "^0.9.0"
   }
 }
