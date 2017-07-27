@@ -3,6 +3,8 @@
 ``` https://electron.atom.io/docs/tutorial/quick-start/ ```
 
 
+<img src="https://image.ibb.co/cDF4AQ/Screenshot_from_2017_07_27_19_12_28.png">
+
 ```javascript
 const {app, BrowserWindow} = require('electron')
 const path = require('path')
