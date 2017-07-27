@@ -13,6 +13,7 @@
     "angular": "^1.6.5",
     "electron": "^1.6.11",
     "express": "^4.15.3",
+    "photonkit": "^0.1.2",
     "qrcode": "^0.9.0"
   }
 }
